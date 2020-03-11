@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SCD", "SCD\SCD.dtproj", "{9A5AE7D7-DAB8-4BC9-B8AE-7B873E388C86}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL All", "ETL All\ETL All.dtproj", "{7635DAC4-8393-4C15-81D8-C8A048A1C5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5AE7D7-DAB8-4BC9-B8AE-7B873E388C86}.Development|Default.ActiveCfg = Development
+		{9A5AE7D7-DAB8-4BC9-B8AE-7B873E388C86}.Development|Default.Build.0 = Development
+		{7635DAC4-8393-4C15-81D8-C8A048A1C5FF}.Development|Default.ActiveCfg = Development
+		{7635DAC4-8393-4C15-81D8-C8A048A1C5FF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
